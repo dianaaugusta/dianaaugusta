@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J5MDdvYWtpdWdyajhmdDBuMTlzZ3VwMG40OGM3Ynd5ZTlrbTdvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEhPCIDM2bTrl0XKTG/giphy.webp">
+</div>
 
 <!--
 **dianaaugusta/dianaaugusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
