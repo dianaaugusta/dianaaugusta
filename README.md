@@ -16,4 +16,4 @@
   <li>Harmonyo - My favorite college project. As a backend developer, I worked on a professional-level music learning project.</li>
 </ul>
 
-![dianaaugusta's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaaugusta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianaaugusta&exclude_repo=github-readme-stats,anuraghazra.github.io)
