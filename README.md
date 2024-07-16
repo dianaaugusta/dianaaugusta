@@ -7,8 +7,8 @@
   </a>
 </div>
 
-<h3> Currently working as a back-end developer @VanillaGroup and CTO of the THelper Project </h3>
-<h4> Formation: <b>Bachelor's Degree in Computer Science at São Paulo Tech School (expected 2025) and Technician in Computing from ETEC Jorge Street</b></h4>
+<h3> Currently working as a back-end developer <a href="https://grupovanilla.com/">@VanillaGroup</a> and CTO of the<a href="https://github.com/thelper-project"> THelper Project </a></h3>
+<h4> Formation: <b>Bachelor's Degree in Computer Science at <a href="https://www.sptech.school/">São Paulo Tech School</a> (expected 2025) and Technician in Computing from <a href="https://www.jorgestreet.com.br/">ETEC Jorge Street</a></b></h4>
 <h4> Check out my cool projects: </h4>
 <ul>
   <li>MLKit Face Debug - A customized Java and Android app for detecting and measuring face point distances in real-time and sending data to servers.</li>
