@@ -2,6 +2,10 @@
 <div style="display: flex; align-items: center;">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J5MDdvYWtpdWdyajhmdDBuMTlzZ3VwMG40OGM3Ynd5ZTlrbTdvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEhPCIDM2bTrl0XKTG/giphy.webp">
   <h2> I'm Diana Augusta, a passionate Android and Java developer </h2>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/diana-augusta-lima-80688622b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <h3> Currently working as a back-end developer @VanillaGroup and CTO of the THelper Project </h3>
