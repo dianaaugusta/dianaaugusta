@@ -1,11 +1,11 @@
 ## <h1> Hi there! 👋 </h1>
-<h2> I'm Diana Augusta, a passionate Android and Java developer </h2>
-<h3> Currently working as a back-end developer @VanillaGroup and CTO of the THelper Project </h3>
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J5MDdvYWtpdWdyajhmdDBuMTlzZ3VwMG40OGM3Ynd5ZTlrbTdvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEhPCIDM2bTrl0XKTG/giphy.webp"
-    height="100px" width="100px">
+<div style="display: flex; align-items: center;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J5MDdvYWtpdWdyajhmdDBuMTlzZ3VwMG40OGM3Ynd5ZTlrbTdvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mEhPCIDM2bTrl0XKTG/giphy.webp" height="100px" width="100px" style="margin-right: 10px;">
+  <h2> I'm Diana Augusta, a passionate Android and Java developer </h2>
 </div>
 
+<h3> Currently working as a back-end developer @VanillaGroup and CTO of the THelper Project </h3>
+<h4> Formation: <b>Bachelor's Degree in Computer Science at São Paulo Tech School (expected 2025) and Technician in Computing from ETEC Jorge Street</b></h4>
 
 <!--
 **dianaaugusta/dianaaugusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
